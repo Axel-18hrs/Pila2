@@ -44,7 +44,6 @@ namespace Pila2
 
                     case 2:
                         Console.Clear();
-                        Console.WriteLine("Number to search for:");
                         if (pila.Count > 0)
                         {
                             int elementoDesapilado = pila.Pop();
